@@ -1,0 +1,35 @@
+
+.gradent {
+width: 100vw;
+max-height: 300px;
+  background-image: linear-gradient(97.3deg, #1b004eff 15%, #72068fff 67%, #4e0e8bff 89%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  overflow: hidden;
+  color: #fff;
+}
+
+.footerGrid{
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
+  gap: 20px;
+  text-align: left;
+}
+.footerGrid5{
+  text-align: end;
+}
+ul{
+  list-style-type: none;
+}
+
+.textBlock22 {
+  color: #fff;
+  font-size: 14px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.footerImage{
+  width:50px;
+  margin: 5px;
+}

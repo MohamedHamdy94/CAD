@@ -1,0 +1,205 @@
+.ourServices {
+  color: #1c0050;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Khula, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: 375px;
+  height: 49px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle2 {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  background-color: #c637a0;
+}
+.rectangle3 {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  background-color: #1c0051;
+}
+.rectangle4 {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  background-color: #1c0051;
+}
+.rectangle5 {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  background-color: #1c0051;
+}
+.rectangle6 {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  background-color: #c637a0;
+}
+.rectangle22 {
+  width: 181px;
+  height: 181px;
+  border-radius: 9px;
+  background-color: #fff;
+}
+.freeIconStartup86056411 {
+  width: 129px;
+  height: 129px;
+  background-image:/* webpackIgnore: true */ url('/assets/freeIconStartup86056411.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.wEB {
+  color: #1c0050;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Khula, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: 180px;
+  height: 48px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle23 {
+  width: 181px;
+  height: 181px;
+  border-radius: 9px;
+  background-color: #fff;
+}
+.freeIconPoster92863701 {
+  width: 128px;
+  height: 128px;
+  background-image:/* webpackIgnore: true */ url('/assets/freeIconPoster92863701.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dESIGN {
+  color: #1c0050;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Khula, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: 180px;
+  height: 48px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle24 {
+  width: 181px;
+  height: 181px;
+  border-radius: 9px;
+  background-color: #fff;
+}
+.freeIconArtboard92863511 {
+  width: 132px;
+  height: 132px;
+  background-image:/* webpackIgnore: true */ url('/assets/freeIconArtboard92863511.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dEV {
+  color: #1c0050;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Khula, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: 180px;
+  height: 48px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle25 {
+  width: 181px;
+  height: 181px;
+  border-radius: 9px;
+  background-color: #fff;
+}
+.freeIconBigData69087901 {
+  width: 130px;
+  height: 130px;
+  background-image:/* webpackIgnore: true */ url('/assets/freeIconBigData69087901.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mARKETING {
+  color: #1c0050;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Khula, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: 180px;
+  height: 48px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle26 {
+  width: 181px;
+  height: 181px;
+  border-radius: 9px;
+  background-color: #fff;
+}
+.freeIconSitemap86049561 {
+  width: 128px;
+  height: 128px;
+  background-image:/* webpackIgnore: true */ url('/assets/freeIconSitemap86049561.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sEO {
+  color: #1c0050;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Khula, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: 180px;
+  height: 48px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle27 {
+  width: 181px;
+  height: 181px;
+  border-radius: 9px;
+  background-color: #fff;
+}
+.freeIconMegaphone92494771 {
+  width: 129px;
+  height: 129px;
+  background-image:/* webpackIgnore: true */ url('/assets/freeIconMegaphone92494771.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.aDVERTISING {
+  color: #1c0050;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Khula, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: 180px;
+  height: 48px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
