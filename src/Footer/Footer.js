@@ -2,9 +2,19 @@ import React from 'react';
 import { Col, Row } from 'react-bootstrap';
 import './Footer.css';
 import { Logo1Icon } from '../assets/images/Logo1Icon';
+import { Circle3Icon } from '../assets/images/Circle3Icon';
+import { Circle4Icon } from '../assets/images/Circle4Icon';
+
 const Footer = () => {
   return (
+    
     <footer className="gradent mt-5">
+            <div className='circle3'>
+        <Circle3Icon className='icon2'/>
+      </div>
+      <div className='circle4'>
+        <Circle4Icon className='icon3'/>
+      </div>
       <div className="w-100 d-flex  justify-content-center ">
         <Row className="footerGrid w-75 pt-5">
           <Col className="footerGrid1">

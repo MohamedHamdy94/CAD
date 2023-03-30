@@ -1,6 +1,5 @@
 import React from 'react';
 import './Screen.css';
-
 import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import Form from 'react-bootstrap/Form';
@@ -9,11 +8,19 @@ import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import { Col, Row } from 'react-bootstrap';
 import { Logo1Icon } from '../assets/images/Logo1Icon';
+import { Circle3Icon } from '../assets/images/Circle3Icon';
+import { Circle4Icon } from '../assets/images/Circle4Icon';
 
 function NavScrollExample() {
   return (
     <div className="num1Screen ">
       <div className="gradient  ">
+      <div className='circle3'>
+          <Circle3Icon className='icon' />
+        </div>
+        <div className='circle4'>
+          <Circle4Icon className='icon2' />
+        </div>
         <Navbar className="header" expand="xxl w-100 m-2">
           <Container>
             <Logo1Icon />
